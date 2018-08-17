@@ -1,6 +1,7 @@
 # MNIST-Tensorflow-flask
 
 Tensorflow-CNN 模型预测手写数字，并通过web页面操作。
+ref : https://github.com/sugyan/tensorflow-mnist
 
 # data
 

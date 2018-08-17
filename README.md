@@ -25,9 +25,9 @@ MNIST数据，程序第一次运行会自动下载。
 
 浏览器打开http://127.0.0.1:5000/ 即可操作。
 
-#view
+# view
 
-![image](https://github.com/zoulala/MNIST-Tensorflow-flask/templates/mnist_0.jpg)
+![image](https://github.com/zoulala/MNIST-Tensorflow-flask/raw/master/templates/mnist_0.jpg)
 
 
 

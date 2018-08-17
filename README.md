@@ -1,6 +1,6 @@
 # MNIST-Tensorflow-flask
 
-Tensorflow-CNN model to predict writer number on flask-web
+Tensorflow-CNN 模型预测手写数字，并通过web页面操作。
 
 # data
 
@@ -19,7 +19,7 @@ MNIST数据，程序第一次运行会自动下载。
 
 我的模型:链接：https://pan.baidu.com/s/1Vo3S8-aABPtxrDVg-zgdaw 密码：6ug5
 
-#web-test
+# web-test
 
 > python Api_test.py
 
